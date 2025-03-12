@@ -15,6 +15,18 @@ const education = [
     period: '2017 - 2020',
     score: '75.5%',
   },
+  {
+    degree: 'XII',
+    institution: 'Ram Krishna College [BSEB], Madhubani- Bihar',
+    period: '2014 - 2016',
+    score: '60%',
+  },
+  {
+    degree: 'X',
+    institution: 'Regional Secondary School [CBSE], Madhubani- Bihar',
+    period: '2014',
+    score: '8.8 CGPA',
+  }
  
 ];
 

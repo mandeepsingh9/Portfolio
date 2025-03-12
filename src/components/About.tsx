@@ -7,7 +7,7 @@ const aboutSections = [
     icon: User2,
     title: "Who I Am",
     description: [
-      "A full-stack developer having interest in software engineering.",
+      "A full-stack Blockchain developer having interest in software engineering.",
       "Enjoy solving problems and building scalable applications.",
       "Always learning new technologies to improve my skills.",
     ],
