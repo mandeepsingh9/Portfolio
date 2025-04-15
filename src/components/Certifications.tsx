@@ -11,7 +11,7 @@ const certifications = [
     issuer: "HackerRank",
     date: "Dec 2022",
     link: "https://www.hackerrank.com/certificates/ec89ef06983e",
-    image: "https://res.cloudinary.com/dd9ca7pyl/image/upload/v1741719907/sxzvq8fbbnixbmdiuuiz.jpg",
+    image: "https://res.cloudinary.com/dd9ca7pyl/image/upload/v1741720184/o38hgfqcahkultwkz0sm.jpg",
   },
   {
     title: "SQL",
